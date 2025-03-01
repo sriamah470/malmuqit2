@@ -1,0 +1,589 @@
+{
+  "app": {
+    "status": true,
+    "report_email": "help.waginem@gmail.com",
+    "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
+    "more_apps_url": "https://aliendro.id/profile/solodroid",
+    "redirect_url": "https://aliendro.id/profile/solodroid"
+  },
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "alien_ads",
+    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_id": "null",
+    "ad_manager_banner_id": "nullr",
+    "ad_manager_interstitial_id": "null",
+    "ad_manager_rewarded_id": "null",
+    "ad_manager_native_id": "null",
+    "ad_manager_app_open_id": "null",
+	"alien_ads_banner_unit_id": "null",
+	"alien_ads_interstitial_unit_id": "null",
+	"alien_ads_native_unit_id": "null",
+    "fan_banner_id": "YOUR_PLACEMENT_ID",
+    "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+    "fan_rewarded_id": "YOUR_PLACEMENT_ID",
+    "fan_native_id": "YOUR_PLACEMENT_ID",
+    "startapp_app_id": "0",
+    "unity_game_id": "null",
+    "unity_banner_id": "null",
+    "unity_interstitial_id": "null",
+    "unity_rewarded_id": "null",
+    "applovin_max_banner_id": "0",
+    "applovin_max_interstitial_id": "0",
+    "applovin_max_rewarded_id": "0",
+    "applovin_max_native_manual_id": "0",
+    "applovin_max_app_open_id": "0",
+    "applovin_discovery_banner_zone_id": "0",
+    "applovin_discovery_banner_mrec_zone_id": "0",
+    "applovin_discovery_interstitial_zone_id": "0",
+    "applovin_discovery_rewarded_zone_id": "0",
+    "ironsource_app_key": "null",
+    "ironsource_banner_id": "null",
+    "ironsource_interstitial_id": "null",
+    "ironsource_rewarded_id": "null",
+    "wortise_app_id": "null",
+    "wortise_banner_id": "null",
+    "wortise_interstitial_id": "null",
+    "wortise_rewarded_id": "null",
+    "wortise_native_id": "null",
+    "wortise_app_open_id": "null",
+    "interstitial_ad_interval": 2,
+    "native_ad_interval": 10,
+    "native_ad_index": 7,
+    "native_ad_style_audio_list": "medium",
+    "native_ad_style_exit_dialog": "medium",
+    "placement": {
+      "banner_home": true,
+      "interstitial_audio_list": true,
+      "rewarded_audio_download": true,
+      "native_ad_audio_list": true,
+      "native_ad_exit_dialog": true,
+      "app_open_ad_on_start": false,
+      "app_open_ad_on_resume": false
+    }
+  },
+  "categories": [
+    {
+      "title": "Muhammad Al muqit",
+      "image": "file:///android_asset/image/malmuqit.jpg"
+    }
+  ],
+  "songs": [
+    
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Wedding",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Wedding.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "With the Moon",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/With%20the%20Moon.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "With Parents",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/With%20Parents.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Welcome",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Welcome.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "We Salute You",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/We%20Salute%20You.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Watin's badge",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Watin's%20badge.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Warmth",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Warmth.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "University Schools",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/University%20Schools.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Toyor Al Saad",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Toyor%20Al%20Saad.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "This Is the Light",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/This%20Is%20the%20Light.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Way of The Tears",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/The%20Way%20of%20Tears.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Voice Of Reciters",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/The%20Voice%20Of%20Reciters.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Trail Of Success",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/The%20Trail%20Of%20Success.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Spirit of Bravery",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/The%20Spirit%20of%20Bravery.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Source of Faith",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/The%20Source%20of%20Faith.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Sins",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/The%20Sins.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Scent of Success",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/The%20Scent%20of%20Success.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The saoudian team badge",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/The%20saoudian%20team%20badge.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Right Way",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/The%20Right%20Way.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Recipe For Happiness",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/The%20Recipe%20For%20Happiness.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Holy Land",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/The%20Holy%20Land.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Feelings of Love",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/The%20Feelings%20of%20Love.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The door of hope",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/The%20door%20of%20hope.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Broken",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/The%20Broken.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Book of Allah",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/The%20Book%20of%20Allah.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Blind",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/The%20Blind.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "The Beauty Of Existence",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/The%20Beauty%20Of%20Existence.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Tear After Tear",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Tear%20After%20Tear.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Tabarik Love",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Tabarik%20Love.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "She Is Gone and Left Me",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/She%20Is%20Gone%20and%20Left%20Me.mp3"
+ "lyric": ""   },
+    
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Seek Knowledge",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Seek%20Knowledge.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Salute Her",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Salute%20Her.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Ramadan Appeared",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Ramadan%20Appeared.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Radiant Sun",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Radiant%20Sun.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Qabas",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Qabas.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Paradise or Hell",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Paradise%20or%20Hell.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Overflowed",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Overflowed.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Our Farewell",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Our%20Farewell.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Oh Lord",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Oh%20Lord.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Oh Lord Of The Existence",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Oh%20Lord%20Of%20The%20Existence.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Oh Hafidh of the Quraan",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Oh%20Hafidh%20of%20the%20Quraan.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "My Quran",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/My%20Quran.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "My Mother How Much I Love Her",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/My%20Mother%20How%20Much%20I%20Love%20Her.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "My Messenger",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/My%20Messenger.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "My Lord's Knowledge",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/My%20Lord's%20Knowledge.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "My Lord Forgive Me",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/My%20Lord%20Forgive%20Me.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "My Hope",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/My%20Hope.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "My Homeland",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/My%20Homeland.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "My Dream",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/My%20Dream.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "My darling baby",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/My%20darling%20baby.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "My Arabic Language",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/My%20Arabic%20Language.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Musalla",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Musalla.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Morning Of Love",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Morning%20Of%20Love.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Loyalty",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Loyalty.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Light of Guidance",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Light%20of%20Guidance.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Light Bursts",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Light%20Bursts.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Li Nahya Bi Noor",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Li%20Nahya%20Bi%20Noor.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Land of Al Wakra",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Land%20of%20Al%20Wakra.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Joy of Heart",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Joy%20of%20Heart.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "I Stood My Speech",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/I%20Stood%20My%20Speech.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "I Seek Protection",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/I%20Seek%20Protection.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "I Rise",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/I%20Rise.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "I Am a Muslim",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/I%20Am%20a%20Muslim.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Home of Safety",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Home%20of%20Safety.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Healing the sick",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Healing%20the%20sick.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Grass of Ethics",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Grass%20of%20Ethics.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Gently Dad",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Gently%20Dad.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Free Gaza",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Free%20Gaza.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "For You Oh My Lord",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/For%20You%20Oh%20My%20Lord.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "For You My Mother",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/For%20You%20My%20Mother.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Dream Seduced",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Dream%20Seduced.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Darb Al Muslihat",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Darb%20Al%20Muslihat.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Cloud Tender",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Cloud%20Tender.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Close Your Eyes",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Close%20Your%20Eyes.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Circles of statement",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Circles%20of%20statement.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Bride of Light",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Bride%20of%20Light.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Blessed Be Your Efforts",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Blessed%20Be%20Your%20Efforts.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Bleeding",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Bleeding.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Best Nasheeds",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Best%20Nasheeds.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Benevolent Rain",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Benevolent%20Rain.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Angles of Nostalgia",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Angles%20of%20Nostalgia.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "An-nooro albasana",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/An-nooro%20albasana.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "Al atyab Club",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/Al%20atyab%20Club.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "A Thousand Greetings",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/A%20Thousand%20Greetings.mp3"
+ "lyric": ""   },
+    {
+   "id": 1,   "category": "Muhammad Al Muqit",
+      "title": "A Clarification",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/main/A%20Clarification.mp3"
+    }
+  ]
+}
