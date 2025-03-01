@@ -67,30 +67,7 @@
     }
   },
   "categories": [
-    {
-      "title": "Koes Plus",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg"
-    },
-    {
-      "title": "Panbers",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/panbers.jpg"
-    },
-    {
-      "title": "God Bless",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/god-bless.jpg"
-    },
-    {
-      "title": "D'Lloyd",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/dlloyd.jpg"
-    },
-    {
-      "title": "Bimbo",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/bimbo.jpg"
-    },
-    {
-      "title": "The Mercys",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/the-mercys.jpg"
-    }
+    
   ],
   "songs": [
     {
