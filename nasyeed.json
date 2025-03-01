@@ -15,7 +15,7 @@
     "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
     "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
     "admob_app_open_id": "null",
-    "ad_manager_banner_id": "nullr",
+    "ad_manager_banner_id": "null",
     "ad_manager_interstitial_id": "null",
     "ad_manager_rewarded_id": "null",
     "ad_manager_native_id": "null",
@@ -75,7 +75,8 @@
   "songs": [
     
     {
-   "id": 1,   "category": "Muhammad Al Muqit",
+     "id": 1,   
+     "category": "Muhammad Al Muqit",
       "title": "Wedding",
       "image": "file:///android_asset/image/malmuqit.jpg",
       "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Wedding.mp3"
