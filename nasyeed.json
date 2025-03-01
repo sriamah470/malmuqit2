@@ -5,6 +5,8 @@
     "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
     "more_apps_url": "https://aliendro.id/profile/solodroid",
     "redirect_url": "https://aliendro.id/profile/solodroid"
+    "enable_app_protection": true,
+    "base64_license_key": ""
   },
   "ads": {
     "ad_status": true,
