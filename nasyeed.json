@@ -72,8 +72,8 @@
     {
    "id": 1,   "category": "",
       "title": "With the Moon",
-      "image": "file:///android_asset/image/malmuqit.jpg",
-      "url": "https://raw.githubusercontent.com/sriamah470/m.almuqit/refs/heads/test/With%20the%20Moon.mp3",
+      "image": "https://github.com/sriamah470/m.almuqit/blob/test/malmuqit.jpg?raw=true",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/test/With%20the%20Moon.mp3",
    "lyric": ""   
     },
     {
