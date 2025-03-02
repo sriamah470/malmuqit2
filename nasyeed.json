@@ -1,7 +1,7 @@
 {
   "app": {
     "status": true,
-    "report_email": "help.solodroid@gmail.com",
+    "report_email": "help.waginem@gmail.com",
     "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
     "more_apps_url": "https://aliendro.id/profile/solodroid",
     "redirect_url": "https://aliendro.id/profile/solodroid"
@@ -14,24 +14,24 @@
     "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
     "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
     "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-    "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
-    "ad_manager_banner_id": "/6499/example/banner",
-    "ad_manager_interstitial_id": "/6499/example/interstitial",
-    "ad_manager_rewarded_id": "/6499/example/rewarded",
-    "ad_manager_native_id": "/6499/example/native",
-    "ad_manager_app_open_id": "/6499/example/app-open",
-	"alien_ads_banner_unit_id": "testing",
-	"alien_ads_interstitial_unit_id": "testing",
-	"alien_ads_native_unit_id": "testing",
+    "admob_app_open_id": "null",
+    "ad_manager_banner_id": "nullr",
+    "ad_manager_interstitial_id": "null",
+    "ad_manager_rewarded_id": "null",
+    "ad_manager_native_id": "null",
+    "ad_manager_app_open_id": "null",
+	"alien_ads_banner_unit_id": "null",
+	"alien_ads_interstitial_unit_id": "null",
+	"alien_ads_native_unit_id": "null",
     "fan_banner_id": "YOUR_PLACEMENT_ID",
     "fan_interstitial_id": "YOUR_PLACEMENT_ID",
     "fan_rewarded_id": "YOUR_PLACEMENT_ID",
     "fan_native_id": "YOUR_PLACEMENT_ID",
     "startapp_app_id": "0",
-    "unity_game_id": "4089993",
-    "unity_banner_id": "banner",
-    "unity_interstitial_id": "video",
-    "unity_rewarded_id": "rewardedVideo",
+    "unity_game_id": "null",
+    "unity_banner_id": "null",
+    "unity_interstitial_id": "null",
+    "unity_rewarded_id": "null",
     "applovin_max_banner_id": "0",
     "applovin_max_interstitial_id": "0",
     "applovin_max_rewarded_id": "0",
@@ -41,17 +41,17 @@
     "applovin_discovery_banner_mrec_zone_id": "0",
     "applovin_discovery_interstitial_zone_id": "0",
     "applovin_discovery_rewarded_zone_id": "0",
-    "ironsource_app_key": "85460dcd",
-    "ironsource_banner_id": "DefaultBanner",
-    "ironsource_interstitial_id": "DefaultInterstitial",
-    "ironsource_rewarded_id": "DefaultRewardedVideo",
-    "wortise_app_id": "test-app-id",
-    "wortise_banner_id": "test-banner",
-    "wortise_interstitial_id": "test-interstitial",
-    "wortise_rewarded_id": "test-interstitial",
-    "wortise_native_id": "test-native",
-    "wortise_app_open_id": "test-app-open",
-    "interstitial_ad_interval": 3,
+    "ironsource_app_key": "null",
+    "ironsource_banner_id": "null",
+    "ironsource_interstitial_id": "null",
+    "ironsource_rewarded_id": "null",
+    "wortise_app_id": "null",
+    "wortise_banner_id": "null",
+    "wortise_interstitial_id": "null",
+    "wortise_rewarded_id": "null",
+    "wortise_native_id": "null",
+    "wortise_app_open_id": "null",
+    "interstitial_ad_interval": 2,
     "native_ad_interval": 10,
     "native_ad_index": 7,
     "native_ad_style_audio_list": "medium",
@@ -62,53 +62,38 @@
       "rewarded_audio_download": true,
       "native_ad_audio_list": true,
       "native_ad_exit_dialog": true,
-      "app_open_ad_on_start": true,
-      "app_open_ad_on_resume": true
+      "app_open_ad_on_start": false,
+      "app_open_ad_on_resume": false
     }
   },
   "categories": [
     
   ],
-  "songs": [
+  "songs": [    
     {
-      "id": 1,
-      "title": "Cinta Mulia",
-      "category": "",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
-      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-cinta-mulia.mp3?rewarded=true",
-      "lyric": "<p>Sepasang remaja jatuh cinta<br />dibawah asuhan dewi asmara<br />Disinari cahya purnama<br />Disaksikan bintang bintang sejuta<br /><br />Saling janji dan setia<br />Hidup rukun damai selamanya<br />Membina rumah tangga<br />sampai nanti di hari tua<br /><br />Cinta itu suci dan mulia<br />Jika tak ternoda nafsu yang hina<br />Rasa cinta itu bahagia<br />Kalau bukan hanya inginkan harta<br /><br />Suka duka bersama<br />Seiring sejalan seirama<br />Tahan uji dan derita<br />Hidup pasti bagai di surga<br /><br />Sungguh indah cita cita mereka<br />Semoga bahagia selamanya</p>"
+     "id": 1,  
+     "category": "",
+      "title": "Wedding",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/Wedding.mp3"
+     "lyric": ""   
     },
     {
-      "id": 2,
-      "title": "Kembali Ke Jakarta",
-      "category": "",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
-      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-kembali-ke-jakarta.mp3?rewarded=true",
-      "lyric": "<p>Disana rumahku<br />Dalam kabut biru<br />Hatiku sedih di hari Minggu<br />Disana kasihku<br />Berdiri menunggu<br />Dibatas waktu yang t&rsquo;lah tertentu</p><p>Ke jakarta aku kan kembali<br />Walaupun apa yang kan terjadi<br />Ke jakarta aku kan kembali<br />Walaupun apa yang kan terjadi</p><p>Pernah ku alami<br />Hidup ku sendiri<br />Teman ku pergi dan menjauhi<br />Lama ku menanti<br />Ku harus mencari<br />Atau ku tiada dikenal lagi</p><p>Ke jakarta aku kan kembali<br />Walaupun apa yang kan terjadi<br />Ke jakarta aku kan kembali<br />Walaupun apa yang kan terjadi</p><p>Ke Jakarta<br />Ke Jakarta</p>"
+      "id": 2,   
+     "category": "",
+      "title": "With the Moon",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/With%20the%20Moon.mp3"
+     "lyric": ""   
     },
     {
-      "id": 3,
-      "title": "Layang Layang",
+      "id": 3,   
       "category": "",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
-      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-layang-layang.mp3?rewarded=true",
-      "lyric": "<p>Layang layang yang ku sayang<br />Layang layang yang ku sayang<br />Jauh tinggi sekali melayang layang</p><p>Layang layang benang panjang<br />Layang layang benang panjang<br />Ku tarik kencang sekali putus di tangan</p><p>Layang layang layang layang yang ku sayang<br />Jauh tinggi melayang akhirnya jatuh di hutan<br />Benang panjang benang panjang ikut melayang<br />Hancur lebur berantakan karena datangnya hujan</p><p>Layang layang yang ku sayang<br />Jauh tinggi melayang akhirnya jatuh di hutan<br />Benang panjang benang panjang ikut melayang<br />Hancur lebur berantakan karena datangnya hujan</p>"
+      "title": "With Parents",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/refs/heads/main/With%20Parents.mp3"
+      "lyric": ""   
     },
-    {
-      "id": 4,
-      "title": "Manis Dan Sayang",
-      "category": "",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
-      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-manis-dan-sayang.mp3?rewarded=true",
-      "lyric": "<p>Tersenyum dianya padaku<br />Manis, manis, manis<br />Kubelai rambutnya yang hitam<br />Sayang, sayang, sayang</p><p>Alangkah senang hatiku<br />Bila ku dekat denganmu<br />Alangkah senang hatiku<br />Sayangku hanya untukmu</p><p>Kuingin tamasya bersama<br />Jauh, jauh, jauh<br />Melihat pemandangan alam<br />Indah, indah, indah</p><p>Alangkah senang hatiku<br />Bila ku dekat denganmu<br />Alangkah senang hatiku<br />Sayangku hanya untukmu.</p>"
-    },
-    {
-      "id": 5,
-      "title": "Pagi Yang Indah",
-      "category": "",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
-      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-pagi-yang-indah-sekali.mp3?rewarded=true",
-      "lyric": "<p>Pagi yang indah sekali<br />Membawa hati bernyanyi<br />Walau gadisku t&#39;lah pergi<br />Dan takkan mungkin kembali, mm ya</p><p>Kini ku seorang diri<br />Berteman burung kenari<br />Kenari penghibur hati<br />Bernyanyi setiap pagi, mm ya</p><p>Burung kenari<br />Pujaan hati<br />S&#39;lalu bernyanyi<br />Setiap pagi, mm ya</p><p>Kau burung kenari<br />Pernahkah dikau bersedih<br />Waktu ditinggal kekasih<br />Namun tak s&#39;lalu bersedih<br />Setiap pagi bernyanyi, mm ya</p><p>Pagi yang indah sekali, mm ya<br />Pagi yang indah sekali, mm ya<br />Pagi yang indah sekali, mm ya</p>"
-    }
+    
   ]
 }
