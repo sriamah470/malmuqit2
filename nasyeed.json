@@ -112,13 +112,13 @@
     {
    "id": 1,   "category": "",
       "title": "Wedding",
-      "image": "file:///android_asset/image/malmuqit.jpg",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
       "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/main/Wedding.mp3"
  "lyric": ""   },
     {
    "id": 1,   "category": "",
       "title": "With the Moon",
-      "image": "file:///android_asset/image/malmuqit.jpg",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
       "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/main/With%20the%20Moon.mp3"
  "lyric": ""   }
   ]
