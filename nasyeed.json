@@ -50,9 +50,9 @@
     "wortise_rewarded_id": "test-interstitial",
     "wortise_native_id": "test-native",
     "wortise_app_open_id": "test-app-open",
-    "interstitial_ad_interval": 3,
-    "native_ad_interval": 10,
-    "native_ad_index": 7,
+    "interstitial_ad_interval": 2,
+    "native_ad_interval": 7,
+    "native_ad_index": 5,
     "native_ad_style_audio_list": "medium",
     "native_ad_style_exit_dialog": "medium",
     "placement": {
