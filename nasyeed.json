@@ -71,12 +71,12 @@
   ],
   "songs": [    
     {
-     "id": 1,  
-     "category": "",
-      "title": "Wedding",
-      "image": "file:///android_asset/image/malmuqit.jpg",
-      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/Wedding.mp3?rewarded=true"
-     "lyric": ""   
+      "id": 1,
+      "title": "Cinta Mulia",
+      "category": "",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/cover/koes-plus.jpg",
+      "url": "https://raw.githubusercontent.com/solodroidev/content/uploads/audio/mp3/koes-plus-cinta-mulia.mp3?rewarded=true",
+      "lyric": "<p>Sepasang remaja jatuh cinta<br />dibawah asuhan dewi asmara<br />Disinari cahya purnama<br />Disaksikan bintang bintang sejuta<br /><br />Saling janji dan setia<br />Hidup rukun damai selamanya<br />Membina rumah tangga<br />sampai nanti di hari tua<br /><br />Cinta itu suci dan mulia<br />Jika tak ternoda nafsu yang hina<br />Rasa cinta itu bahagia<br />Kalau bukan hanya inginkan harta<br /><br />Suka duka bersama<br />Seiring sejalan seirama<br />Tahan uji dan derita<br />Hidup pasti bagai di surga<br /><br />Sungguh indah cita cita mereka<br />Semoga bahagia selamanya</p>"
     },
     {
       "id": 2,   
