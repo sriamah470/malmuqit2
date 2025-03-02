@@ -82,6 +82,13 @@
       "image": "file:///android_asset/image/malmuqit.jpg",
       "url": "https://borak.xyz/malmuqit/Wedding.mp3",
       "lyric": ""   
+    },
+    {
+      "id": 1,   "category": "",
+      "title": "With Parents",
+      "image": "file:///android_asset/image/malmuqit.jpg",
+      "url": "https://raw.githubusercontent.com/sriamah470/malmuqit2/test/An-nooro-albasana.mp3.mp3",
+      "lyric": ""   
     }
   ]
 }
